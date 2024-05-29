@@ -60,3 +60,8 @@ img{
 ul{
   max-width: 550px;
 }
+
+li{
+  margin: 20px;
+  text-align:justify;
+}
