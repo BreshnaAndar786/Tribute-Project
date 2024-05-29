@@ -2,3 +2,12 @@ body{
   font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","Roboto","Helvetica Neue",Arial,sans-serif;
   background-color: white;
 }
+
+#main{
+  background-color: #f0f0f0;
+}
+
+#title{
+  text-align:center;
+  
+}
